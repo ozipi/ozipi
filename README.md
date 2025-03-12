@@ -2,8 +2,14 @@
 
 # Hello! 
 
-- 🔭 I’m currently working on the [Arxivist](https://github.com/ozipi/Arxivist) and other cool unannounced projects.
+- 🔭 Projects:
+
+    <h2>Arxivist</h2>Reads papers from Arxiv by subject, giving you connections. 
+
     > [<img src="arxivist.jpg" width="200"/>](https://github.com/ozipi/Arxivist)
+    
+    <h2>Space Rep</h2>Learning Platform to create courses based on the spaced repetition system.
+    
     > [<img src="space-rep.jpg" width="200"/>]()
 
 - 🌱 Currently studying for [CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist) and [CBBH](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter) certifications.
