@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on the [Arxivist](https://github.com/ozipi/Arxivist) and other cool unannounced projects.
     > [<img src="arxivist.jpg" width="200"/>](https://github.com/ozipi/Arxivist)
+    > [<img src="space-rep.jpg" width="200"/>]()
 
 - 🌱 Currently studying for [CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist) and [CBBH](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter) certifications.
     > [<img src="https://academy.hackthebox.com/storage/exam_overview_banners/Fpoo8YaykR3341XtswrcmuyLNcAK6bZ1WF86Ro6v.png" width="200"/>](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)
